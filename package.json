@@ -1,0 +1,28 @@
+{
+  "name": "@kvasi/tools",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Simon Dagfinrud <hi@kvasimon.co>",
+  "main": "dist/index.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvasimon/tools.git"
+  },
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.umd.js",
+  "files": [
+    "dist"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvasimon/tools/issues"
+  },
+  "devDependencies": {
+    "rollup": "^2.47.0"
+  }
+}
