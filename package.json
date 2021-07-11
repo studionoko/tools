@@ -1,8 +1,8 @@
 {
-  "name": "@kvasi/tools",
+  "name": "@nokonoko/tools",
   "version": "0.1.0",
   "description": "",
-  "author": "Simon Dagfinrud <hi@kvasimon.co>",
+  "author": "Simon Dagfinrud <simon@nokonoko.co>",
   "main": "dist/index.cjs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kvasimon/tools.git"
+    "url": "git+https://github.com/studionoko/tools.git"
   },
   "module": "dist/index.esm.js",
   "browser": "dist/index.umd.js",
@@ -20,7 +20,7 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kvasimon/tools/issues"
+    "url": "https://github.com/studionoko/tools/issues"
   },
   "devDependencies": {
     "rollup": "^2.47.0"
