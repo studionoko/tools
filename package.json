@@ -1,6 +1,6 @@
 {
   "name": "@nokonoko/tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "author": "Simon Dagfinrud <simon@nokonoko.co>",
   "main": "dist/index.cjs.js",
