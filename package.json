@@ -1,7 +1,7 @@
 {
   "name": "@studionoko/tools",
   "version": "0.1.1",
-  "description": "",
+  "description": "Collection of somewhat random, but handy, tools for creative coding.",
   "author": "Simon Dagfinrud <simon@nokonoko.co>",
   "main": "dist/index.cjs.js",
   "scripts": {
